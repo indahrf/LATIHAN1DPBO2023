@@ -17,7 +17,7 @@ PENJELASAN ALUR PROGRAM
 
 ![Screenshot (1416)](https://user-images.githubusercontent.com/99266430/219025256-d4cd4012-aa42-4012-8a80-f4ee80239360.png)
 
-/*CRUD yang dimana kode programnya bisa dikembangkan menjadi methods*/
+==CRUD yang dimana kode programnya bisa dikembangkan menjadi methods==
 4. Kode Program untuk create data. Menampung data untuk dimasukkan kedalam list mahasiswa sebagain instansiasi object dengan memanfaatkan method set dengan NIM sebagai primary key.
 
 ![Screenshot (1417)](https://user-images.githubusercontent.com/99266430/219025602-22c70fda-017d-48a9-9f79-1ae869de9aba.png)
