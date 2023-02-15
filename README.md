@@ -1,5 +1,9 @@
 # LATIHAN1DPBO2023
 
+Saya Indah Resti Fauzi NIM 2103507 mengerjakan soal Latihan 1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek 
+untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+
 DESAIN PROGRAM
 1. Membuat class/object Mahasiswa yang didalamnya terdapat 4 private attributes (nama, nim, program studi, dan fakultas)
 2. Membuat linked list untuk mendeklarasikan list berisikan sekumpulan mahasiswa
